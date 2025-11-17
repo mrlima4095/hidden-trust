@@ -684,25 +684,26 @@ Segue-se a lista com todas as 48 **auras** conhecidas:
 
 ---
 
-### 32. ❄️ Gelo
+### 32. 🌊 Mares
 
-**✏️ Nome técnico**: Aura da Criocinese (*Aura Cryokinesiae*)  
-**🗃️ Categoria**: Fundamental  
-**⭐ Nível de raridade**: 5/10  
-**📝 Descrição da aura**: Controla o frio e o gelo. Pode congelar água, baixar temperaturas, criar estruturas de gelo e armas cortantes. Representa frieza, paciência e imobilidade.  
-**🧠 Aspectos comportamentais**: Calmos, calculistas e com autocontrole. Raramente mostram emoção, mantendo uma "fachada gelada". Podem ser vistos como distantes ou insensíveis.  
-**🔗 Sinergia da aura**: Água, Ventos, Pureza, Névoa.  
-**⚖️ Peso da aura**: 4.500  
-**🎨 Cor da aura no mundo espiritual**: Azul-claro Gélido.  
-**✨ Predisposição a magias**: Lança de Gelo, Campo de Congelamento, Nevasca, Armadura de Gelo.  
+**✏️ Nome técnico**: Aura dos Oceanos Infinitos (*Aura Marium Infinitorum*)  
+**🗃️ Categoria**: Natural  
+**⭐ Nível de raridade**: 6/10  
+**📝 Descrição da aura**: Concede controle sobre as águas salgadas, correntes marítimas e criaturas do mar.
+**🧠 Aspectos comportamentais**: Sábios, pacientes e com uma presença imponente. Têm uma conexão profunda com o desconhecido e o ciclo das marés. Podem ser vistos como impassíveis ou detentores de uma calma perigosa, como a quietude antes de um tsunami.  
+**🔗 Sinergia da aura**: Água, Tempestades, Vida, Terra, Medo.  
+**⚖️ Peso da aura**: 9.000  
+**🎨 Cor da aura no mundo espiritual**: Azul esverdeado.  
+**✨ Predisposição a magias**: Controle de Marés, Invocação de Tsunami, Comunicação Marinha, Névoa Salina.  
 
 **💪 Habilidades Inatas**:  
-*   **Imunidade ao Frio**: Não ser afetado por temperaturas congelantes.  
-*   **Piso Congelante**: Congelar passivamente o chão ao seu redor para dificultar o movimento dos inimigos.  
+*   **Pulso das Marés**: Sentir e influenciar as marés em um raio de vários quilômetros, sentindo tudo que está na superficie e no fundo do mar.  
+*   **Dom das Profundezas**: Resistir naturalmente à pressão das profundezas podendo viver embaixo d'água.  
 
-**Fraquezas**:  
-*   Auras de Fogo e Energia são seus contadores naturais.  
-*   Calor extremo pode derreter suas criações rapidamente.  
+**🛡️ Fraquezas**:  
+*   Ambientes completamente secos ou desérticos reduzem drasticamente sua influência e poder.  
+*   Auras de **Gelo** podem congelar suas correntes, e auras de **Terra** ou **Deserto** podem absorver ou represar suas águas.  
+*   Poluição espiritual ou física corrompe sua conexão com o mar, enfraquecendo-o.  
 
 ---
 
