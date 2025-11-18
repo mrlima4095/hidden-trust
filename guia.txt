@@ -59,8 +59,6 @@ Bruxaria Solitaria
 Cinese
 Demonologia
 
-Xamanismo
-
 Oráculos
 Hermetismo
 Astrologia
@@ -106,3 +104,4 @@ Servidores
 
 
 Aquecimento Global
+
