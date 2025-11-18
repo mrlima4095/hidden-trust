@@ -85,8 +85,3 @@ O MKUltra foi projetado para ser impossível de rastrear. A maioria dos document
 *   **Danos Individuais:** As vítimas sofreram danos psicológicos permanentes, incluindo depressão, ansiedade, perda de memória e suicídio. O governo dos EUA foi processado e, eventualmente, indenizou algumas famílias das vítimas.
 *   **Cultura da Conspiração:** O MKUltra se tornou um pilar das teorias da conspiração, alimentando suspeitas sobre o governo e inspirando inúmeras obras de ficção (como *Stranger Things*, *The Manchurian Candidate*, *Homem-Aranha* com o *Duende Verde*, etc.).
 *  **Luto e Trauma:** Deixou um legado permanente de dor para as vítimas e suas famílias, que nunca receberam justiça plena.
-
-
-
-
-
