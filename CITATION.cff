@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "Grimório das Verdades Escondidas"
+message: "Se você usar este repositório, por favor cite-o conforme indicado."
+type: software
+authors:
+  - name: "Mr Lima"
+repository-code: "https://github.com/usuario/grimorio-das-verdades-escondidas"
+url: "https://git.opentty.xyz/mrlima4095/hidden-trust"
+keywords:
+  - aura
+  - energia
+  - cosmologia bíblica
+  - cabala
+  - apócrifos
+  - igreja católica
+  - magia
+  - ocultismo
+  - sociedades secretas
+  - objetos lendários
+  - espiritualidade
+license: MIT
+abstract: |
+  Este grimório é uma coleção organizada de estudos sobre temas místicos, 
+  religiosos, históricos e esotéricos, incluindo manipulação energética, 
+  cosmologia bíblica, textos apócrifos, história da Igreja Católica, 
+  magia, sociedades secretas, objetos lendários e exploração espiritual.
+version: 1.0.0
+date-released: 2025-12-01
