@@ -1,7 +1,5 @@
 # ⚡ Magia: O Poder que Condena
 
-## 🔮 O Que É Magia?
-
 A **magia** consiste na transformação da energia em forças sobrenaturais para realizar feitos além das leis naturais. É a arte de manipular a realidade através do poder espiritual, mas este poder **não vem de Deus**.
 
 ### 🎯 A Mecânica da Magia

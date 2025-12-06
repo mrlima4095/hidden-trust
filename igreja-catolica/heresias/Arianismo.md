@@ -1,13 +1,17 @@
 # ✝️ O Arianismo
 
-## 🌐 Visão Geral
 O Arianismo foi uma importante corrente teológica do cristianismo antigo, fundada por Ário, um presbítero de Alexandria. Esta doutrina negava a divindade completa de Jesus Cristo, considerando-o como um ser criado por Deus Pai e, portanto, inferior a Ele. O arianismo tornou-se uma das heresias mais significativas e duradouras enfrentadas pela Igreja primitiva.
 
+---
+
 ## ⏳ Quando Surgiu
+
 - **Século IV d.C.**: Início por volta do ano 318 d.C.
 - **Contexto**: Alexandria, Egito, importante centro teológico
 - **Figura central**: Ário (256-336 d.C.), presbítero formado em Antioquia
 - **Período de influência**: Séculos IV ao VII d.C., com revivescencias posteriores
+
+---
 
 ## 💭 O Que Defendia
 
@@ -31,6 +35,8 @@ O Arianismo foi uma importante corrente teológica do cristianismo antigo, funda
 - **Popularidade**: Grande aceitação entre povos germânicos
 - **Missionários**: Ulfilas entre os godos
 - **Apoio imperial**: Vários imperadores romanos simpatizantes
+
+---
 
 ## ⛪ Visão da Igreja Católica sobre o Arianismo
 
@@ -71,4 +77,4 @@ O Arianismo foi uma importante corrente teológica do cristianismo antigo, funda
 - **Importância ecumênica**: Base da cristologia tradicional
 - **Estudo histórico**: Como exemplo de desenvolvimento doutrinário
 
-O Arianismo representou um dos desafios mais profundos à fé cristã tradicional, forçando a Igreja a formular com precisão sua compreensão sobre a natureza de Cristo e da Trindade, legado que permanece fundamental até hoje na doutrina católica. 🙏📖
+> O Arianismo representou um dos desafios mais profundos à fé cristã tradicional, forçando a Igreja a formular com precisão sua compreensão sobre a natureza de Cristo e da Trindade, legado que permanece fundamental até hoje na doutrina católica.

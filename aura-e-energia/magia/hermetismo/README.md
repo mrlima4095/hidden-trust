@@ -17,6 +17,8 @@ O Hermetismo é uma tradição filosófica e espiritual baseada nos ensinamentos
 - **A Tábua de Esmeralda (Tabula Smaragdina):** Um texto curto e enigmático, considerado a base da Alquimia. Contém o famoso axioma: **"O que está em cima é como o que está embaixo, e o que está embaixo é como o que está em cima."**
 - **Asclepius:** Um diálogo que sobreviveu em latim, também conhecido como "O Perfeito Discurso".
 
+---
+
 ## 🌌 Princípios e Doutrinas Fundamentais
 
 ### 🔮 **A Lei do Mentalismo**
@@ -47,6 +49,8 @@ Nada acontece por acaso. Toda ação gera uma reação em cadeia nos múltiplos 
 > "O gênero está em tudo; tudo tem seus princípios Masculino e Feminino."
 Refere-se à energia criativa presente em todas as coisas, representada pela interação entre princípios ativos (masculino) e receptivos (feminino).
 
+---
+
 ## 🎯 O Caminho Espiritual: A Gnose Hermética
 
 O objetivo central do Hermetismo é a **salvação através do conhecimento (Gnose)**. O processo envolve:
@@ -56,6 +60,8 @@ O objetivo central do Hermetismo é a **salvação através do conhecimento (Gno
 - **Regeneração:** Um processo de morte para a natureza inferior e renascimento para uma natureza espiritual e iluminada.
 - **"Conhece-te a ti mesmo e conhecerás o universo e os deuses."** - Máxima hermética.
 
+---
+
 ## 🔬 5. Influências e Relacionamentos
 
 - **Alquimia:** A Alquimia hermética não era apenas sobre transformar chumbo em ouro, mas principalmente sobre a **transformação espiritual do alquimista** (a "Grande Obra").
@@ -63,6 +69,8 @@ O objetivo central do Hermetismo é a **salvação através do conhecimento (Gno
 - **Magia:** A magia hermética (ou "Arte Real") é vista como a ciência de usar as leis naturais e espirituais para causar mudanças conscientes, sempre em conformidade com a Vontade Divina.
 - **Neoplatonismo:** Compartilha ideias como a emanação do Uno e a jornada da alma de volta à sua fonte.
 - **Cristianismo e Judaísmo:** Influenciou correntes místicas como a Cabala e alguns escritos de padres da Igreja.
+
+---
 
 ## 🧭 Hermetismo na Atualidade
 

@@ -1,6 +1,5 @@
 # ⛪ Hierarquia e Organização da Igreja Católica
 
-## 📋 Visão Geral
 A Igreja Católica possui uma estrutura hierárquica bem definida, combinando elementos divinos e humanos em sua organização. Esta estrutura é dividida principalmente entre o **clero** (ministros ordenados) e os **leigos**, com as **ordens religiosas** formando um importante complemento à vida e missão da Igreja Católica. Cada membro tem funções específicas que contribuem para a missão da Igreja.
 
 ---

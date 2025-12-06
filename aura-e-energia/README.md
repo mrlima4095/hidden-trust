@@ -1,7 +1,5 @@
 # 🔮 Aura & Energia: Os Pilares da Existência
 
-## 🌌 A Essência Vital: Aura
-
 A **aura** representa a manifestação espiritual de tudo que existe no plano físico. Cada ser vivo, objeto ou entidade possui uma aura única que serve como sua contraparte espiritual. Esta conexão interdimensional é fundamental para a própria existência:
 
 - **🌍 Universalidade**: Tudo no cosmos possui uma aura - desde uma simples pedra até as criaturas mais complexas

@@ -1,14 +1,12 @@
 # 🌟 A Septuaginta: A Bíblia dos Setenta
 
-### 📜 O que é a Septuaginta?
-
 A **Septuaginta** (frequentemente abreviada como **LXX**, o numeral romano para 70) é a mais antiga tradução da Bíblia Hebraica para o grego koiné, a língua franca do mundo mediterrâneo a partir do século IV a.C. Ela não é apenas uma tradução, mas um marco cultural, religioso e literário de imensa importância. Em essência, é a **Bíblia dos judeus de língua grega** da Diáspora e, posteriormente, tornou-se o **Antigo Testamento** da Igreja Cristã primitiva.
 
 O termo "Septuaginta" vem do latim *Septuaginta*, que significa "setenta", uma referência redonda ao número de tradutores envolvidos na lendária tradução da Torá (o Pentateuco).
 
 ---
 
-### 🏛️ Contexto Histórico: Por que foi necessária?
+## 🏛️ Contexto Histórico: Por que foi necessária?
 
 Para entender a Septuaginta, é preciso voltar ao período helenístico, após as conquistas de **Alexandre, o Grande** (século IV a.C.).
 
@@ -18,7 +16,7 @@ Para entender a Septuaginta, é preciso voltar ao período helenístico, após a
 
 ---
 
-### 📖 A Lenda dos Setenta Sábios
+## 📖 A Lenda dos Setenta Sábios
 
 A carta de **Aristéias** (século II a.C.) conta a história lendária da tradução. Segundo essa narrativa:
 
@@ -31,7 +29,7 @@ Embora os historiadores vejam isso como uma lenda piedosa que destaca a autorida
 
 ---
 
-### 🔍 Características e Conteúdo
+## 🔍 Características e Conteúdo
 
 A Septuaginta é mais do que uma simples tradução; é uma coleção de textos com características únicas:
 
@@ -41,7 +39,7 @@ A Septuaginta é mais do que uma simples tradução; é uma coleção de textos 
 
 ---
 
-### 💡 Importância e Influência
+## 💡 Importância e Influência
 
 A influência da Septuaginta é difícil de exagerar, moldando a história religiosa do Ocidente.
 
@@ -54,7 +52,7 @@ A influência da Septuaginta é difícil de exagerar, moldando a história relig
 
 ---
 
-### ⚖️ A Septuaginta Hoje
+## ⚖️ A Septuaginta Hoje
 
 Hoje, a Septuaginta mantém sua importância:
 

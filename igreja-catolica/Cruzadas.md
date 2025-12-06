@@ -2,6 +2,8 @@
 
 As Cruzadas foram uma série de expedições militares e religiosas organizadas pela Igreja Católica Apostólica Romana entre os séculos XI e XIII, com o objetivo principal de reconquistar a Terra Santa (Palestina) e especialmente Jerusalém do controle muçulmano.
 
+---
+
 ## 🎯 O Que Foram e Propósito
 
 ### 🌍 O Que Foram
@@ -12,6 +14,8 @@ As Cruzadas foram campanhas militares cristãs que uniram nobres, cavaleiros, ca
 - Proteger peregrinos cristãos
 - Expandir a influência da Igreja Católica
 - Oferecer redenção espiritual aos participantes
+
+---
 
 ## 📊 Quantas Cruzadas Houve?
 

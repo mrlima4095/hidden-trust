@@ -2,6 +2,8 @@
 
 A Missa Negra é, fundamentalmente, uma paródia sacrílega e invertida da Missa Católica Romana. Mais do que um ritual único e coeso, ela representa uma categoria de cerimônias blasfemas cujo objetivo central é a profanação sistemática dos símbolos e dogmas mais sagrados do Cristianismo, particularmente do Catolicismo. Não se trata de uma religião organizada, mas de um performance ritualística utilizada por diversos grupos—desde satanistas ateístas até ocultistas teístas—com a intenção de libertar o indivíduo de restrições morais, atingir poderes sobrenaturais ou expressar um profundo antagonismo à autoridade religiosa dominante.
 
+---
+
 ## 🗿 Origens Históricas
 
 A concepção popular da Missa Negra foi grandemente moldada pela cultura e literatura, mas suas raízes encontram-se em eventos históricos específicos.
@@ -17,6 +19,8 @@ A concepção popular da Missa Negra foi grandemente moldada pela cultura e lite
 ### 📚 A Literatura e a Popularização
 - **✍️ Autor Central:** **Joris-Karl Huysmans**, com seu romance **"Là-Bas" (1891)**, foi instrumental em popularizar uma imagem vívida e detalhada da Missa Negra no imaginário moderno.
 - **💡 Influência:** A descrição de Huysmans, baseada em suas pesquisas e supostos contatos com círculos ocultistas em Paris, tornou-se o "roteiro" padrão para muitos rituais subsequentes praticados no século XX.
+
+---
 
 ## 🎯 Propósito e Significado
 
@@ -36,6 +40,8 @@ O propósito da Missa Negra varia significativamente de acordo com a cosmovisão
 
 ### 😈 Protesto e Blasfêmia
 - **✊ Propósito:** Um ato puramente político ou social de desafio. O objetivo é chocar, ofender e demonstrar rejeição total à autoridade da Igreja e seus valores.
+
+---
 
 ## ⚫️ Liturgia e Estrutura
 
@@ -70,6 +76,8 @@ Este é o ápice do ritual, focando na profanação direta do sacramento central
 ### 6. 🔄 O Rito de Conclusão (*Ritus Conclusionis*)
 - **🖤 Bênção:** Uma bênção invertida é dada aos participantes.
 - **🎉 Celebração:** O ritual muitas vezes é seguido por uma orgia sexual (*orgia sexualis*) e um banquete, simbolizando a celebração dos prazeres carnais e a rejeição da castidade cristã.
+
+---
 
 ## ✅ Conclusão
 

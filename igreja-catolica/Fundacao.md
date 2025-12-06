@@ -18,6 +18,8 @@
 - Roma como centro do Império - "para onde Pedro foi, foi a Sé"
 - Sucessão apostólica ininterrupta desde Pedro até o Papa atual
 
+---
+
 ## ⚔️ O Contexto Histórico do Século III-IV d.C.
 
 ### 🏹 **Perseguições aos Cristãos**
@@ -29,6 +31,8 @@
 - 👑 Sucessão de imperadores e guerras civis
 - 📉 Instabilidade política e econômica
 - 🛡️ Conflitos militares constantes
+
+---
 
 ## ⚔️ A Virada Constantiana
 
@@ -43,6 +47,8 @@
 - **Edito de Milão** (313 d.C.): Liberdade de culto aos cristãos
 - **Conversão pessoal**: Constantino batizado apenas no leito de morte (337 d.C.)
 
+---
+
 ## 🏛️ A Fundação Institucional da Igreja no Império
 
 ### 📜 **Edito de Tessalônica** (380 d.C.)
@@ -54,6 +60,8 @@
 - **Concílios ecumênicos**: Niceia (325 d.C.), Constantinopla (381 d.C.)
 - **Organização hierárquica**: Modelo administrativo romano aplicado à Igreja
 - **Padronização doutrinária**: Credo Niceno-Constantinopolitano
+
+---
 
 ## 🔄 Transformações Pós-Constantino
 
@@ -68,6 +76,7 @@
 - **Cristianização do Império** vs **Imperialização do Cristianismo**
 - **Reinterpretações**: Visão tradicional vs análise histórica crítica
 
+---
 
 ## ✨ Contraponto Teológico-Histórico
 
@@ -82,6 +91,8 @@ Evidências históricas sugerem:
 - ⏳ 300 anos entre Jesus e o estabelecimento institucional
 - 🔄 Transformação gradual de movimento religioso para instituição
 - 🏛️ Adaptação ao modelo organizacional romano
+
+---
 
 ## ⚖️ Conclusão Histórica
 

@@ -1,7 +1,5 @@
 # 💀 Reencarnação Impura
 
-## 🌑 Compreendendo a Magia
-
 A **Reencarnação Impura** é um ritual necromântico que busca reviver um ser falecido em seu próprio corpo físico. Diferente de outras formas de necromancia, esta técnica não cria mortos-vivos, mas sim tenta trazer de volta o espírito original ou qualquer outra entidade que queira habitar o corpo vazio. O processo é instável, perigoso e consome quantidades colossais de energia.
 
 ### ⚠️ Características Fundamentais

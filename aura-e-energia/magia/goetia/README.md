@@ -7,7 +7,6 @@ A **Ars Goetia** e a **Ars Theurgia Goetia** são dois dos cinco livros que comp
 
 ## 🔮 **Ars Goetia**
 
-### ⚜️ **O que é?**
 A Ars Goetia (Arte da Goécia) é a seção mais famosa do Lemegeton, focada na invocação e comando de 72 espíritos, frequentemente chamados de "demônios", embora essa classificação seja simplista.
 
 ### 🎯 **Propósito**
@@ -76,7 +75,6 @@ A Ars Goetia (Arte da Goécia) é a seção mais famosa do Lemegeton, focada na 
 
 ## ✨ **Ars Theurgia Goetia**
 
-### ⚜️ **O que é?**
 A "Arte da Teurgia Goética" foca em espíritos aéreos e celestiais, sendo considerada uma abordagem mais "elevada" que a Goetia tradicional.
 
 ### 🎯 **Propósito**

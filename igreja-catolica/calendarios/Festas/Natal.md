@@ -1,8 +1,8 @@
 # 🎄 Natal
 
-## 🌟 O que é o Natal?
-
 O Natal é celebrado mundialmente como o nascimento de Jesus Cristo, mas uma análise histórica e bíblica revela que esta data tem origens profundamente pagãs e não corresponde ao verdadeiro nascimento de Jesus.
+
+---
 
 ## 📜 A Origem Pagã do Natal
 
@@ -17,6 +17,8 @@ O Natal é celebrado mundialmente como o nascimento de Jesus Cristo, mas uma an�
 - **🎁 Troca de Presentes**: Herdada diretamente da Saturnalia
 - **🕯️ Velas e Luzes**: Relacionadas ao culto solar do Sol Invictus
 - **🎅 Papai Noel**: Fusão de várias figuras mitológicas incluindo o deus nórdico Odin
+
+---
 
 ## 📖 Evidências Bíblicas Contra Dezembro
 
@@ -42,6 +44,8 @@ O Natal é celebrado mundialmente como o nascimento de Jesus Cristo, mas uma an�
 - **👶 9 meses** após anunciação: **setembro/outubro**
 - **❌ Não** dezembro!
 
+---
+
 ## 📅 Data Provável do Nascimento
 
 ### 🗓️ Evidências para Março/Abril
@@ -51,6 +55,8 @@ O Natal é celebrado mundialmente como o nascimento de Jesus Cristo, mas uma an�
 
 ### 🔍 Corroboração Profética
 **Miquéias 5:2** - "E tu, Belém... de ti me sairá o que há de reinar em Israel, e cujas origens são desde os tempos antigos, desde os dias da eternidade."
+
+---
 
 ## ⛪ A Cristianização das Festas Pagãs
 
@@ -62,6 +68,8 @@ O Natal é celebrado mundialmente como o nascimento de Jesus Cristo, mas uma an�
 ### 📜 Documentos Históricos
 - **📖 Cronógrafo de 354**: Primeiro registro da celebração em 25 de dezembro
 - **🙏 São João Crisóstomo** (386 d.C.): "Neste dia (25 de dezembro) também o nascimento de Cristo foi finalmente estabelecido em Roma"
+
+---
 
 ## ⚠️ Perigos Espirituais do Natal Moderno
 
@@ -77,6 +85,8 @@ O Natal é celebrado mundialmente como o nascimento de Jesus Cristo, mas uma an�
 - **🔄 Guirlandas** funcionando como **círculos de permissão** para influência espiritual negativa
 - **🌳 Árvores decoradas** constituindo **altares domésticos** inconscientes
 
+---
+
 ## ✨ Celebração Alternativa
 
 ### 📖 Base Bíblica
@@ -89,6 +99,8 @@ O Natal é celebrado mundialmente como o nascimento de Jesus Cristo, mas uma an�
 - **👁️ Respeitar** quem celebra, mas com **discernimento**
 - **📖 Estudar** as origens das tradições
 - **🛡️ Fechar** portas espirituais abertas por símbolos pagãos
+
+---
 
 ## 🎯 Conclusão
 

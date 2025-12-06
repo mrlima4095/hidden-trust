@@ -1,7 +1,5 @@
 # ✝️ **Os Papas da Igreja Católica Apostólica Romana**
 
-## 📘 Introdução
-
 O **Papa** é o **Bispo de Roma** e o **líder supremo da Igreja Católica Apostólica Romana**, sendo considerado o sucessor direto do apóstolo **Pedro**. Ele exerce autoridade espiritual sobre mais de um bilhão de fiéis ao redor do mundo, além de atuar como **chefe de Estado do Vaticano**, a menor nação independente da Terra.
 
 O cargo papal envolve responsabilidades de **unidade doutrinária**, **governo eclesiástico**, e **representação mundial da fé católica**. Desde São Pedro até o Papa Francisco, a história papal reflete **mudanças políticas, teológicas e culturais** que moldaram o cristianismo e o Ocidente.
@@ -277,4 +275,3 @@ O cargo papal envolve responsabilidades de **unidade doutrinária**, **governo e
 | 263 | **São João Paulo II** | [1978–2005 – 27 anos]                        | Um dos papas mais influentes; combateu o comunismo, viajou o mundo e defendeu a dignidade humana.                 |
 | 264 | **Bento XVI**         | [2005–2013 – 8 anos]                         | Teólogo alemão; primeiro papa a **renunciar** desde 1415; defensor da fé e da razão.                              |
 | 265 | **Francisco**         | [2013–2025 – 12 anos]                        | Primeiro papa latino-americano e jesuíta; promove a ecologia integral e o diálogo inter-religioso.                |
-

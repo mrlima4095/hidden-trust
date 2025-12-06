@@ -2,6 +2,8 @@
 
 A **Inquisição Espanhola** foi uma instituição fundada em 1478 pelos **Reis Católicos**, Fernando II de Aragão e Isabel I de Castela, com aprovação do Papa Sisto IV. Diferente de outras inquisições medievais, esta era controlada **diretamente pela monarquia espanhola**, não pelo Vaticano, representando um instrumento de poder real que combinava objetivos religiosos e políticos. Operou por mais de **350 anos**, sendo finalmente abolida apenas em 1834.
 
+---
+
 ## 📜 Origens e Contexto Histórico
 
 ### 🏰 Antecedentes Imediatos
@@ -13,6 +15,8 @@ A **Inquisição Espanhola** foi uma instituição fundada em 1478 pelos **Reis 
 - **Bula papal "Exigit sinceras devotionis affectus"** (1 de novembro de 1478)
 - **Primeiros inquisidores**: Miguel de Morillo e Juan de San Martín
 - **Primeiro auto-de-fé**: Sevilha, 6 de fevereiro de 1481
+
+---
 
 ## 🎯 Motivações e Objetivos
 
@@ -30,6 +34,8 @@ A **Inquisição Espanhola** foi uma instituição fundada em 1478 pelos **Reis 
 ### 💰 Motivações Econômicas
 - **Confisco de propriedades** dos acusados enriquecia o tesouro real
 - **Eliminação da concorrência** econômica representada por judeus e conversos bem-sucedidos
+
+---
 
 ## 📋 Proibições e "Crimes" Perseguidos
 
@@ -52,6 +58,8 @@ A **Inquisição Espanhola** foi uma instituição fundada em 1478 pelos **Reis 
 - **Bruxaria** e feitiçaria
 - **Homossexualidade** ("pecado nefando")
 - **Iluminismo** e ideias liberais (em períodos posteriores)
+
+---
 
 ## ⚖️ Processos e Penas
 
@@ -79,6 +87,8 @@ A **Inquisição Espanhola** foi uma instituição fundada em 1478 pelos **Reis 
 - **Proibição de cargos públicos**
 - **Destruição da reputação familiar**
 
+---
+
 ## 💀 Números e Estatísticas das Vítimas
 
 ### 📊 Dados Gerais (Estimativas)
@@ -100,6 +110,8 @@ A **Inquisição Espanhola** foi uma instituição fundada em 1478 pelos **Reis 
 - **Protestantes**: Minoritários, mas altamente visados
 - **Iluministas e liberais**: Nos séculos XVIII e XIX
 
+---
+
 ## 🏛️ Estrutura Organizacional
 
 ### 🔷 Órgãos de Direção
@@ -113,6 +125,8 @@ A **Inquisição Espanhola** foi uma instituição fundada em 1478 pelos **Reis 
 - **Calificadores** (censores)
 - **Familiars** (leigos colaboradores)
 - **Notários** e escrivães
+
+---
 
 ## 📜 Conclusão e Legado
 

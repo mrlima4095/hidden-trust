@@ -1,7 +1,5 @@
 # ⚡ Energia Vital: O Combustível da Existência
 
-## 🔋 Compreendendo a Energia
-
 A **energia** é o combustível vital que anima todos os seres vivos. Diferente da aura (que é permanente e define sua essência), a energia é **dinâmica e variável**, flutuando constantemente conforme suas atividades e estado físico-mental.
 
 ### 🎯 Características Fundamentais
@@ -142,7 +140,3 @@ A **energia** é o combustível vital que anima todos os seres vivos. Diferente 
 - **📵 Desconexão**: Afaste-se de telas 1 hora antes de dormir
 - **🛀 Banho Relaxante**: Com sais ou óleos essenciais
 - **📖 Leveza**: Evite assuntos pesados antes de dormir
-
----
-
-*⚡ "A verdadeira maestria energética não está em ter energia ilimitada, mas em saber onde, quando e como investir cada centelha do seu poder vital."*

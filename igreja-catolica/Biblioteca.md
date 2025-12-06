@@ -1,6 +1,5 @@
 # 🏛️ A Biblioteca do Vaticano: Um Tesouro do Conhecimento Humano
 
-## 📜 Conteúdo da Biblioteca
 A Biblioteca Apostólica Vaticana é uma das mais antigas e ricas bibliotecas do mundo, guardando uma coleção inestimável de textos históricos. Seu acervo inclui:
 
 * ✉️ **Manuscritos Antigos**: Mais de 80.000 manuscritos, desde textos clássicos até documentos medievais.

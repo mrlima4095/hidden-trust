@@ -1,8 +1,8 @@
 # 🧪 Alquimia: A Arte Ancestral da Transmutação
 
-## 🌌 O Que é a Alquimia?
-
 A **alquimia** é uma tradição filosófica e protocientífica ancestral que combina elementos de química, física, astrologia, metalurgia, medicina, misticismo e espiritualidade. Mais do que uma simples predecessora da química moderna, a alquimia era uma **arte hermética** que buscava compreender os segredos da matéria e do espírito através da observação e experimentação.
+
+---
 
 ## 📜 Origens Históricas
 
@@ -15,6 +15,8 @@ A **alquimia** é uma tradição filosófica e protocientífica ancestral que co
 - **Mundo Árabe** (séculos VII-VIII): Desenvolveram e preservaram o conhecimento alquímico
 - **Europa Medieval** (séculos XII-XIII): Traduções do árabe para o latim
 - **Renascimento**: Período de auge na Europa
+
+---
 
 ## 🎯 Os Três Grandes Objetivos dos Alquimistas
 
@@ -35,6 +37,8 @@ Também conhecido como **Elixir da Imortalidade**:
 - **Prolongamento da vida**: Prometia saúde e longevidade extremas
 - **Cura universal**: Remédio para todas as enfermidades
 - **Rejuvenescimento**: Restauração da juventude
+
+---
 
 ## 🔬 A Prática Alquímica
 
@@ -61,6 +65,8 @@ Os alquimistas trabalhavam em **laboratórios** equipados com:
 - **Exaltação**: Elevação às qualidades superiores
 - **Multiplicação**: Aumento do poder da pedra filosofal
 
+---
+
 ## 📚 Princípios e Filosofia
 
 ### 🌗 A Dualidade Fundamental
@@ -77,6 +83,8 @@ Os alquimistas trabalhavam em **laboratórios** equipados com:
 - **Terra** 🜃 (princípio da solidez)
 - **Ar** 🜁 (princípio da volatilidade)
 
+---
+
 ## 🔄 O Que é Transmutação?
 
 ### 🧭 Conceito Central
@@ -92,6 +100,8 @@ A **transmutação** é o processo fundamental da alquimia, representando a **tr
 - **Jornada de autoconhecimento**: Processo paralelo entre matéria e espírito
 - **Morte e renascimento**: Simbolismo da putrefação e ressurreição
 
+---
+
 ## 🧠 Simbolismo e Linguagem
 
 ### 🦢 Linguagem Cifrada
@@ -100,6 +110,8 @@ Os alquimistas usavam **símbolos** e **alegorias** para proteger seu conhecimen
 - **Metáforas animais**: Fênix, dragão, pavão, pelicano
 - **Códigos secretos**: Linguagem deliberadamente obscura
 - **Cores simbólicas**: Nigredo (negro), Albedo (branco), Citrinitas (amarelo), Rubedo (vermelho)
+
+---
 
 ## 🔬 Legado e Importância
 

@@ -1,6 +1,5 @@
 # 📜 Necromancia
 
-## ✝️ O Que É a Necromancia?
 A necromancia é uma prática oculta que envolve a comunicação com os mortos, seja para obter conhecimento, prever o futuro ou manipular eventos através de espíritos ou cadáveres reanimados. Diferente de outras práticas espirituais, seu foco central é a manipulação ritualística da morte como ferramenta de revelação. Ao longo da história, foi considerada tanto uma arte sagrada quanto uma heresia profunda, existindo no limiar entre religião, superstição e ocultismo.
 
 ---

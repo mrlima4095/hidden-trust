@@ -1,8 +1,8 @@
 # ⛪ Igreja Católica Apostólica Romana
 
-## 🌍 Visão Geral
-
 A Igreja Católica Apostólica Romana é a maior denominação cristã do mundo, com mais de 1,3 bilhão de fiéis. Como instituição religiosa, é uma das mais antigas e influentes da história da humanidade.
+
+---
 
 ## 📜 Principais Características
 
@@ -21,6 +21,8 @@ A Igreja Católica Apostólica Romana é a maior denominação cristã do mundo,
 - Leigos: fiéis não ordenados
 - Vida consagrada: religiosos, freiras, monges
 
+---
+
 ## 🙏 **Práticas e Devoções**
 
 ### 🎉 **Sacramentos**
@@ -37,6 +39,8 @@ A Igreja Católica Apostólica Romana é a maior denominação cristã do mundo,
 - Santos e Santas
 - Sagrado Coração de Jesus
 - Via Sacra e Rosário
+
+---
 
 ## 🏛️ **Presença Global**
 - Presente em todos os continentes

@@ -1,7 +1,5 @@
 # 📖 O Livro de São Cipriano da Capa Preta
 
-## 🌟 Visão Geral
-
 O **Livro de São Cipriano da Capa Preta** é um dos **grimórios mais famosos e controversos** da tradição mágica portuguesa e brasileira. Atribuído a **São Cipriano de Antioquia**, um santo mártir convertido da magia negra, o texto tal como o conhecemos hoje foi **compilado no século XIX em Portugal**, embora incorpore lendas e práticas muito mais antigas.
 
 > 🔮 O livro é conhecido como uma **"enciclopédia da magia"** que reúne rituais, orações, simpatias e feitiços para os mais diversos fins, desde proteção até trabalhos de amor e justiça.

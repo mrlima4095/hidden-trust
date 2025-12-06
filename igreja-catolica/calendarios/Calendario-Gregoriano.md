@@ -1,6 +1,5 @@
 # 📅 O Calendário Gregoriano
 
-## 🌍 Visão Geral
 O Calendário Gregoriano é o sistema de calendário civil internacionalmente predominante na atualidade. Trata-se de um calendário solar que organiza o ano civil com base no ciclo astronômico percebido do Sol.
 
 ## ❓ O Que É o Calendário Gregoriano?

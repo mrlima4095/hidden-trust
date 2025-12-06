@@ -1,7 +1,5 @@
 # 📜 Concílios Fundadores do Cristianismo
 
-## 🌟 Visão Geral
-
 Vamos observar um análise comparativa dos três concílios mais importantes para a formação do Cânon bíblico e da doutrina cristã primitiva: **Niceia (325 d.C.)**, **Hipona (393 d.C.)** e **Cartago (397 d.C.)**.
 
 ```mermaid

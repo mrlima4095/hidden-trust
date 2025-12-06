@@ -2,11 +2,16 @@
 
 O Gnosticismo foi um movimento religioso e filosófico que floresceu nos primeiros séculos da era cristã, caracterizado pela crença em que a salvação é alcançada através do **conhecimento secreto (gnosis)** sobre a natureza divina. Os gnósticos acreditavam que este conhecimento especial permitia aos iniciados transcender o mundo material imperfeito e retornar ao reino espiritual divino.
 
+---
+
 ## ⏳ Quando Surgiu
+
 - **Séculos I e II d.C.**: Surgiu como movimento organizado
 - **Período de auge**: Séculos II e III d.C.
 - **Contexto histórico**: Desenvolvido paralelamente ao cristianismo primitivo
 - **Origens diversas**: Influências do platonismo, judaísmo, cristianismo e religiões de mistério
+
+---
 
 ## 💭 O Que Defendia
 
@@ -29,6 +34,8 @@ O Gnosticismo foi um movimento religioso e filosófico que floresceu nos primeir
 - **Cristo como revelador**: Traz o conhecimento salvador
 - **Docetismo**: Crença que Cristo apenas parecia humano
 - **Ensinamentos secretos**: Cristo teria transmitido conhecimentos ocultos
+
+---
 
 ## ⛪ Visão da Igreja Católica sobre o Gnosticismo
 
