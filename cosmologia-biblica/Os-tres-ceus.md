@@ -1,6 +1,5 @@
 # 🌌 Os Três Céus
 
-## 🌍 **Visão Geral**
 Na cosmologia bíblica, o universo é descrito como uma estrutura organizada e finita, dividida em três céus distintos. Essa divisão é explicitamente mencionada por Paulo em **2 Coríntios 12:2**, onde ele fala de ser "arrebatado até o terceiro céu". Cada um desses céus possui características específicas, funções e localizações dentro da perspectiva da Terra como centro da criação. Abaixo, exploramos detalhadamente cada um deles, com base nas Escrituras e na compreensão da cosmologia bíblica tradicional.
 
 ---

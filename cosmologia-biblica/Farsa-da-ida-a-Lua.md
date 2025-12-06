@@ -1,6 +1,5 @@
 # 🚀 A Farsa da Apollo: Uma Análise Crítica da Narrativa da Ida à Lua
 
-## 📜 Resumo
 Este artigo examina criticamente a narrativa oficial das missões Apollo, que supostamente levaram o homem à Lua entre 1969 e 1972. Através de uma análise técnica e de uma perspectiva cosmológica baseada em uma interpretação literal das Escrituras, argumenta-se que tais eventos nunca ocorreram. Serão exploradas as insuficiências tecnológicas da era, a contradição da "perda" da tecnologia pela NASA e a incompatibilidade fundamental da viagem lunar com a cosmografia bíblica.
 
 [Documentário Guia](https://youtu.be/Ns5L2oAKJos?si=BLhXudvTFqIJsZzV)

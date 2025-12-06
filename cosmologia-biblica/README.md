@@ -1,6 +1,5 @@
 # 🌌 Cosmologia Bíblica: A Verdade Divina sobre a Criação
 
-## 📖 O Que é a Cosmologia Bíblica?
 A cosmologia bíblica descreve a estrutura e organização do universo conforme revelada pelas Escrituras Sagradas, representando a verdade divina sobre a criação e organização do cosmos.
 
 ## 🏗️ Estrutura do Universo na Cosmologia Bíblica

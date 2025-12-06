@@ -1,7 +1,5 @@
 # 🕳️ **Sheol – O Mundo dos Mortos**
 
-## 📖 **O Que é o Sheol**
-
 O **Sheol** é o **mundo subterrâneo dos mortos**, o local para onde descem as **almas após a morte**.
 Na tradição bíblica, é descrito como um **lugar de trevas, silêncio e separação da vida**.
 Não é o mesmo que o **Lago de Fogo**, pois o Sheol é o **estado intermediário** antes do julgamento final.
@@ -53,7 +51,7 @@ O Sheol é descrito como um **reino espiritual** habitado por diferentes tipos d
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
 | **Espíritos dos Mortos** | Almas que aguardam o julgamento final, conscientes, mas em tormento ou repouso.                                                          | *Lucas 16:23–26*                |
 | **Anjos Caídos**         | Alguns dos que se rebelaram e foram aprisionados nas trevas profundas.                                                                   | *2 Pedro 2:4*, *Judas 1:6*      |
-| **Cadáveres dos Titãs**     | Assim como os Nefilins, filhos de mulheres humanas com os anjos caídos, porém estes possuem magia inata. | *Gênesis 6:4*, *Isaías 14:9–12* |
+| **Cadáveres dos Titãs**  | Assim como os Nefilins, filhos de mulheres humanas com os anjos caídos, porém estes possuem magia inata.                                 | *Gênesis 6:4*, *Isaías 14:9–12* |
 
 ---
 
@@ -102,4 +100,3 @@ Os que forem achados culpados serão lançados no **Lago de Fogo**, onde o sofri
 ---
 
 > ✝️ **“O Senhor é Deus dos vivos e não dos mortos, pois todos vivem para Ele.”** — *Lucas 20:38*
-:38*
