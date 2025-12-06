@@ -36,5 +36,5 @@ Acredita-se que demônios atuam por:
 - **Saúde:** Foco excessivo no demoníaco pode mascarar necessidades médicas/psiquiátricas.
 - **Teológico:** Interpretações literais vs. simbólicas variam entre denominações.
 
-leia `/cosmologia-biblica/seres/Anjos-Caidos.md` para a visão geral sobre a Queda dos Anjos;
-leia `/falsos-deuses/README.md` para ver mais sobre algumas atuações dos Anjos Caídos em nosso meio.
+leia `/cosmologia-biblica/seres/Anjos-Caidos.md` para a visão geral sobre a Queda dos Anjos;  
+leia `/falsos-deuses/README.md` para ver mais sobre algumas atuações dos Anjos Caídos em nosso meio.  
