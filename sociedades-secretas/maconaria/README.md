@@ -82,37 +82,3 @@ A relação entre a Igreja Católica e a Maçonaria é historicamente conflituos
 
 A Maçonaria se define como uma **sociedade discreta**, não secreta. Sua existência, seus princípios gerais e a identidade de muitos de seus membros são públicos. O que é reservado aos iniciados são os **ritos internos**, os sinais de reconhecimento e os detalhes dos juramentos. Essa discrição visa proteger a intimidade do grupo e a experiência iniciática de cada membro.
 Claro! Segue um tópico adicional sobre a Ordem DeMolay, perfeitamente alinhado com o estilo e a estrutura do seu texto anterior.
-
----
-
-## 👦🔥 O que é a Ordem DeMolay? A Maçonaria para Jovens?
-
-A **Ordem DeMolay** é a maior organização juvenil patrocinada pela Maçonaria no mundo. Voltada para jovens do sexo masculino com idades entre 12 e 21 anos, ela serve como uma **introdução aos valores e preceitos maçônicos**, funcionando como um "viveiro" de futuros cidadãos e, potencialmente, de futuros maçons.
-
-### 🧭 Origem e Propósito
-
-*   **Fundação:** A Ordem foi fundada nos Estados Unidos, em 1919, por **Frank S. Land**, um maçom. Ele percebeu a necessidade de uma organização que orientasse jovens que haviam perdido seus pais (em especial, após a Primeira Guerra Mundial e a Gripe Espanhola), oferecendo um ambiente de camaradagem e ensino de valores.
-*   **Patrono:** O nome "DeMolay" é uma homenagem a **Jacques DeMolay**, o último Grão-Mestre da Ordem dos Cavaleiros Templários, que foi queimado na fogueira em 1314 por se recusar a trair seus irmãos. Ele é um símbolo de lealdade e integridade até o fim.
-*   **Objetivo Principal:** O foco não é recrutar maçons, mas sim **formar bons cidadãos**. A ordem ensina lições de liderança, responsabilidade cívica e caráter, preparando os jovens para a vida adulta.
-
-### ⚖️ Princípios e Atividades
-
-Os pilares da Ordem DeMolay são baseados em **Sete Virtudes Cardeais**:
-
-1.  **Amor Filial:** Respeito e cuidado pelos pais e pela família.
-2.  **Reverência pelas Coisas Sagradas:** Respeito pela crença em um Poder Superior (o conceito do G.A.D.U. também está presente aqui, de forma não dogmática).
-3.  **Cortesia:** Boa educação e respeito no trato com todos.
-4.  **Companheirismo:** Lealdade e amizade entre os membros.
-5.  **Fidelidade:** Ser digno de confiança e honrar compromissos.
-6.  **Pureza:** Retidão de pensamentos, palavras e ações.
-7.  **Patriotismo:** Amor pelo próprio país e disposição para servi-lo.
-
-As atividades incluem reuniões ritualísticas (mais simples que as maçônicas), projetos comunitários, eventos sociais e esportivos, e programas de desenvolvimento de liderança.
-
-### 🔗 A Ligação com a Maçonaria
-
-*   **Patrocínio:** Cada Capítulo (como são chamadas as sedes locais da DeMolay) **deve ser patrocinado e supervisionado por uma Loja Maçônica**. Os maçons atuam como conselheiros e mentores dos jovens, guiando-os e garantindo o bom funcionamento da ordem.
-*   **Preparação, não Iniciação:** A DeMolay **não é um grau maçônico** e os DeMolays **não são maçons**. É uma organização paralela e preparatória. Muitos ex-DeMolays, ao completarem 21 anos, sentem-se inspirados a buscar a iniciação na Maçonaria, mas isso não é uma obrigação.
-*   **Simbolismo:** A ordem utiliza alguns símbolos e uma estrutura que ecoa a Maçonaria, adaptando-os para uma linguagem e um contexto juvenis.
-
-*Em resumo, a Ordem DeMolay é uma organização fraternal para jovens, fortemente ligada à Maçonaria por laços de patrocínio e valores compartilhados, mas com identidade, ritos e objetivos próprios, focados no desenvolvimento do caráter da juventude.*
