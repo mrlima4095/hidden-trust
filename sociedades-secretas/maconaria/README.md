@@ -1,4 +1,4 @@
-# 🧐 O que é a Maçonaria?
+# 🧐 A Maçonaria?
 
 A Maçonaria, também conhecida como Franco-Maçonaria, é uma sociedade discreta (não secreta) de carácter filosófico, filantrópico, iniciático e progressista. Seus membros, chamados de maçons, estão unidos por princípios de fraternidade, liberdade, igualdade e busca pelo conhecimento humano. **Ela não é uma religião**, mas exige de seus membros a crença em um "Princípio Criador", often referred to as "Grande Arquiteto do Universo" (G.A.D.U.), que pode ser interpretado de acordo com a fé individual de cada um.
 
