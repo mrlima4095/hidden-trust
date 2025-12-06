@@ -1,4 +1,4 @@
-# 🔮 Magia de Talismãs: Um Guia Prático
+# 🔮 Magia de Talismãs
 
 Diz-se que a palavra **“talismã”** vem das palavras árabes **talis ma**, que significa **“escrita mágica”**. No entanto, não há prova definitiva. Outras possíveis origens incluem:
 
