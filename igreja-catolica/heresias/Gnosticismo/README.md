@@ -1,6 +1,5 @@
 # 📜 O Gnosticismo
 
-## 🌐 Visão Geral
 O Gnosticismo foi um movimento religioso e filosófico que floresceu nos primeiros séculos da era cristã, caracterizado pela crença em que a salvação é alcançada através do **conhecimento secreto (gnosis)** sobre a natureza divina. Os gnósticos acreditavam que este conhecimento especial permitia aos iniciados transcender o mundo material imperfeito e retornar ao reino espiritual divino.
 
 ## ⏳ Quando Surgiu
