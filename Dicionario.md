@@ -24,6 +24,7 @@ Algumas palavras/ termos contidos neste repositorio podem ser de difícil compre
 | **Milagre**          | Evento sobrenatural atribuído à intervenção divina, diferente da magia que vem de forças demoníacas |
 | **Mundo Físico**     | Plano da existência material, acessível através dos sentidos comuns |
 | **Nefilins**         | Gigantes resultantes da união entre anjos caídos e mulheres humanas |
+| **Nosferatu**        | Ser que transcende a morte através de um estado entre a vida e a morte, alimentando-se da essência vital de seres vivos para manter sua existência. |
 | **Ocultismo**        | Estudo e prática de conhecimentos secretos e espiritualidade esotérica |
 | **Papa**             | Bispo de Roma, sucessor de São Pedro e líder supremo da Igreja Católica Apostólica Romana |
 | **Parábola**         | Narrativa breve com significado moral ou espiritual, usado principalmente por Jesus para ensinar |
