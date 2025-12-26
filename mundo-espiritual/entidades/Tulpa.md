@@ -153,8 +153,3 @@ Uma **tulpa** é uma entidade consciente autônoma que compartilha o mesmo corpo
 - **🚫 Limites Claros**: Regras bem definidas desde o início
 - **📞 Apoio**: Busque orientação de praticantes experientes
 
-
-
-
-
-
