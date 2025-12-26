@@ -1,10 +1,10 @@
 # 🏛️ Panteão Grego
 
-## 🏺 Visão Geral
-
 O panteão grego representou uma das mais influentes e complexas mitologias da antiguidade, com deuses associados a elementos naturais, emoções humanas e aspectos da vida cotidiana. A idolatria grega foi confrontada pelo evangelho quando Paulo visitou Atenas e pregou sobre o "Deus Desconhecido".
 
 > 📜 *"Pois, passando eu e vendo os vossos santuários, achei também um altar em que estava escrito: AO DEUS DESCONHECIDO. Esse, pois, que vós honrais não o conhecendo, é o que eu vos anuncio."* - **Atos 17:23**
+
+---
 
 ## ⚡ Os Principais Deuses e Suas Naturezas
 
@@ -74,7 +74,6 @@ O panteão grego representou uma das mais influentes e complexas mitologias da a
 - **📜 Falsos ensinamentos e comunicação demoníaca**
 - **💼 Engano no comércio e negócios**
 
-**🎯 Propósito deste Estudo**: Compreender a natureza da idolatria egípcia para discernir formas modernas de paganismo e permanecer firmes na adoração exclusiva ao Deus de Abraão, Isaque e Jacó.
 ### 🌾 Deméter - Deusa da Agricultura
 **Atributos**: Deusa da agricultura, colheita, fertilidade
 **Símbolos**: Feixe de trigo, cornucópia, papoula
@@ -88,6 +87,8 @@ O panteão grego representou uma das mais influentes e complexas mitologias da a
 **Natureza Espiritual**:
 - **🥴 Embriaguez espiritual e carnal**
 - **🎭 Teatro e artes como veículo de engano**
+
+---
 
 ## 📊 Tabela de Referências Mitológicas
 
@@ -105,6 +106,8 @@ O panteão grego representou uma das mais influentes e complexas mitologias da a
 | 🌾 Deméter | Agricultura | Trigo, Cornucópia | Fertilidade Idólatra |
 | 🍷 Dionísio | Vinho, Festas | Uvas, Tirso | Embriaguez Espiritual |
 
+---
+
 ## 🏛️ Características do Culto Grego
 
 ### 👥 Estrutura Religiosa
@@ -119,6 +122,8 @@ O panteão grego representou uma das mais influentes e complexas mitologias da a
 - **🎪 Jogos e Competições**: Glorificação do corpo humano
 - **🍷 Festivais de Embriaguez**: Cultos de excesso e libertinagem
 
+---
+
 ## ⚖️ Perspectivas Teológicas
 
 ### 🙏 Visão Bíblica
@@ -129,6 +134,8 @@ O panteão grego representou uma das mais influentes e complexas mitologias da a
 
 ### 📜 Confrontação Apostólica
 > 📖 *"O Deus que fez o mundo e tudo que nele há, sendo Senhor do céu e da terra, não habita em templos feitos por mãos de homens;"* - **Atos 17:24**
+
+---
 
 ## 👺 A Verdadeira Identidade Espiritual
 
@@ -145,6 +152,8 @@ Como todos os sistemas pagãos, os deuses gregos eram:
 - 👹 **Representação** de principados territoriais
 - 📜 **Condenação** explícita nas Escrituras
 
+---
+
 ## 🎭 Legado e Influência
 
 ### 📚 Na Cultura Moderna
@@ -158,6 +167,8 @@ Como todos os sistemas pagãos, os deuses gregos eram:
 - 🔮 **Nova Era**: Incorporação de conceitos gregos
 - 🎭 **Entretenimento**: Normalização da idolatria
 - 📿 **Simbolismo Oculto**: Uso em logotipos e marcas
+
+---
 
 ## 💭 Reflexão Final e Lições
 
