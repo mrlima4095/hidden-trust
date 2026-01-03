@@ -1,4 +1,4 @@
-# 📖 Visão Geral sobre Escatologia
+# 📖 Escatologia
 
 **Escatologia** é o estudo das "*últimas coisas*" (do grego *eschatos* = último, final + *logos* = estudo). Refere-se às doutrinas religiosas sobre o fim dos tempos, o destino final da humanidade e do universo.
 
