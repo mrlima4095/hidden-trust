@@ -26,23 +26,23 @@ Banimento, na prática mágica, refere-se a rituais de **Magia Cerimonial**, enc
 - Use **círculo mágico** ou **imposição da vontade**
 - Conheça as nuances energéticas do local
 
-### 2. 🔍 IDENTIFICAR O ALVO
+### 2. 🔍 Indentificar o alvo
 - **Sem alvo = sem banimento**
 - Identifique espíritos nocivos vs. malignos
 - Em dúvida: faça **purificação + banimento**
 
-### 3. 🕵️‍♂️ CONSCIÊNCIA DA RESISTÊNCIA
+### 3. 🕵️‍♂️ Consciência da resistência
 - Espíritos se escondem nas sombras
 - Defenderão seu território
 - Esteja preparado para **ataques psíquicos**
 
-### 4. 🗺️ DESTINAÇÃO DEFINIDA
+### 4. 🗺️ Destinação definida
 - Defina PARA ONDE os espíritos vão
 - Opções: **cemitério, encruzilhada, floresta**
 - Exemplo de decreto:
   > "Que voltes ao teu lugar... vás à mais profunda das covas"
 
-### 5. 🤝 OPÇÃO DA COOPTAÇÃO
+### 5. 🤝 Opção da Cooptação
 - **Faça acordos** com espíritos conscientes
 - Ofereça algo em troca
 - **Estipule prazo e oferta**
