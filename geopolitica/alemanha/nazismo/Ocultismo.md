@@ -26,8 +26,6 @@ O chamado "ocultismo nazista" é, em grande parte, **uma construção pós-Segun
 - Adotada por teósofos e depois por nacionalistas germânicos.
 - **Uso atual**: Identificação neonazista ("Hiperbóreos") para evitar termos racialmente carregados.
 
----
-
 ### **2. Thule e a Sociedade Thule**
 - **Sociedade Thule** (1918): Grupo de estudos da antiguidade alemã que deu origem ao Partido Nazista.
 - **Mito**: Capital da Hiperbórea, localizada no extremo norte.
