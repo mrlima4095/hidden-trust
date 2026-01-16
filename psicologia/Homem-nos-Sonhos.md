@@ -1,5 +1,9 @@
 # 🌙 Você Já Sonhou Com Este Homem?
 
+<div align="center">
+  <img src="https://i0.wp.com/www.thisman.org/wp-content/uploads/2023/02/thisman_small.jpg" alt="Imagem do homem" width="200">
+</div>
+
 Há não muito tempo atrás, num belo dia em Nova York, um homem vai ao psiquiatra falando sobre problemas da vida. No decorrer de suas falas, o homem diz que **sonha esporadicamente com um homem que jamais viu na vida real**. O psiquiatra, curioso, pede ao homem que diga como é o homem e, através das informações obtidas, consegue um **retrato falado** que, segundo o seu paciente, se aproxima bastante do homem com quem sonhou.
 
 Apesar de tudo, o psiquiatra deixa o retrato em cima da mesa sem dar muita importância ao assunto. Na semana seguinte, ao atender outra paciente, ele nota que a mulher também reclama de **sonhar com um homem com o qual jamais havia conhecido ou visto antes**. O psiquiatra acha estranho e, por vias das dúvidas, mostra o retrato e, para sua surpresa, a mulher diz que é **exatamente o homem com quem sonhou**.
