@@ -2,7 +2,7 @@
 
 ## 🧪 Contexto do Experimento
 
-- **Data do experimento**: Realizado em 2019
+- **Data do experimento**: Realizado em 2022
 - **Material biológico utilizado**: Esperma humano conservado em ambiente refrigerado
 - **Espécie vegetal**: Duas sementes de girassol (*Helianthus annuus*)
 - **Condições controladas**: Ambas plantadas em terra adubada idêntica
