@@ -1,33 +1,7 @@
-# Livros Apocrifos
+# Arquivos
 
-Evangelho de Judas, Pedro, Filipe e Thiago
-Atos de Pedro, Paulo, João, André e Tomé
-Epístola dos Apóstolos
-
-# Civilizações de Fora
-
-Asgard
-Atlantida
-
-# Sociedades Secretas
-
-Priorado de Sião
-Nova Ordem Mundial
-
-# Cabala
-
-Cubo de Metatron
-Criaturas Híbridas
-
-# Wicca
-
-Roda do ano
-Banhos energeticos
-Instrumentos magicos
-
-## Bruxaria 
-
-# Magias 
+# Aura & Energia
+## Magia
 
 Magia de Velas
 
@@ -79,14 +53,64 @@ Olho da justiça
 Julgamento Divino
 Forma do Medo
 
-✨
-
-Entidades Mágicas
 Sigilos
 Servidores
 
+# Biografias
+
+# Cosmologia Biblica
+## Cabala
+Cubo de Metatron
+Criaturas Híbridas
+## Civilizações de Fora
+Asgard
+Atlantida
 
 Aquecimento Global
+
+# Falsos deuses
+## Religioes
+### Wicca
+
+Banhos energeticos
+Instrumentos magicos
+
+# Geopolitica
+
+# Igreja Catolica
+
+# Livros Apocrifos
+
+Evangelho de Judas
+Evangelho de Pedro
+Evangelho de Filipe
+Evangelho de Thiago
+Atos de Pedro
+Atos de Paulo
+Atos de João
+Atos de André
+Atos de Tomé
+Epístola dos Apóstolos
+
+# Mundo Espiritual
+Entidades Mágicas
+
+# Objetos Lendarios
+
+# Psicologia
+
+# Sociedades Secretas
+## Illuminti
+### Nova Ordem Mundial
+
+Priorado de Sião
+
+
+✨
+
+
+
+
 
 The Economist
 Black Eye Club
