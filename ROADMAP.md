@@ -1,25 +1,33 @@
-[ Livros Apocrifos ]
+# Livros Apocrifos
 
 Evangelho de Judas, Pedro, Filipe e Thiago
 Atos de Pedro, Paulo, João, André e Tomé
 Epístola dos Apóstolos
 
-[ Civilizações de Fora ]
+# Civilizações de Fora
 
 Asgard
 Atlantida
 
-[ Sociedades Secretas ]
+# Sociedades Secretas
 
 Priorado de Sião
 Nova Ordem Mundial
 
-[ Cabala ]
+# Cabala
 
 Cubo de Metatron
 Criaturas Híbridas
 
-[ Magias ]
+# Wicca
+
+Roda do ano
+Banhos energeticos
+Instrumentos magicos
+
+## Bruxaria 
+
+# Magias 
 
 Magia de Velas
 
