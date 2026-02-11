@@ -3,18 +3,23 @@
 # Aura & Energia
 ## Magia
 
-Magia de Velas  
+### Magia de Velas  
 
-Magia Lunar  
-Magia Natural  
-Magia Algelical  
-Magia Enochiana  
-Magia da Mão Esquerda  
+### Magia Lunar  
+### Magia Natural  
+### Magia Algelical  
+### Magia Enochiana  
+### Magia da Mão Esquerda  
+### Magia Celta
+### Magia Natural
+### Magia do Caos
+### Magia Tradicional
+### Magia Culinaria
 
-Alta Magia  
+### Alta Magia 
+### Banimentos  
+### Bruxaria Solitaria  
 
-Banimentos  
-Bruxaria Solitaria  
 Cinese  
 Demonologia  
 
