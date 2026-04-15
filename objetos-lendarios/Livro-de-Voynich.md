@@ -2,6 +2,8 @@
 
 O **Livro de Voynich** é considerado o grande enigma da criptografia histórica e o manuscrito mais enigmático do mundo. Trata-se de um códice ilustrado de aproximadamente 240 páginas, escrito inteiramente em um alfabeto desconhecido e uma língua não identificada—o chamado "Voynichês". Suas ilustrações retratam plantas fantásticas, diagramas astronômicos inexplicáveis, figuras humanas em estranhos rituais e sistemas biológicos surrealistas. Desde a sua redescoberta no século XX, ele desafia decifradores, linguistas, criptógrafos e historiadores, permanecendo como um quebra-cabeça insolúvel que pode conter desde conhecimento oculto até uma elaborada fraude.
 
+[Download PDF](https://ia600105.us.archive.org/22/items/TheVoynichManuscript/Voynich_Manuscript.pdf)
+
 ---
 
 ## 🏛️ História: A Jornada de um Mistério
