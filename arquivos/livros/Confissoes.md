@@ -1,6 +1,6 @@
 # 📖 Confissões de Santo Agostinho: Uma Jornada da Alma em Busca da Verdade
 
-[Download PDF do Livro Confissões](http://opentty.xyz/dl/Books/Confissoes.pdf)
+[Download PDF do Livro Confissões](http://opentty.fun/dl/Books/Confissoes.pdf)
 
 ## ✍️ 1. Contexto Histórico e Autoral
 
