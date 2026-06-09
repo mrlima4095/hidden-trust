@@ -60,7 +60,7 @@ Para formar sua própria opinião, **analise com atenção as imagens abaixo**. 
 *   Os detalhes das correntes quebradas aos seus pés.
 *   A forma e o significado dos sete raios da coroa.
 
-![Estátua da Liberdade](http://opentty.xyz/dl/imgs/Estatua-da-Liberdade.jpg)
-![Pés da Estátua](http://opentty.xyz/dl/imgs/Correntes.jpg)
-![Estátua de Lúcifer](http://opentty.xyz/dl/imgs/Estatua-Lucifer.jpg)
-![Painting of Lucifer](http://opentty.xyz/dl/imgs/Painting-of-Lucifer.jpg)
+![Estátua da Liberdade](http://opentty.fun/dl/imgs/Estatua-da-Liberdade.jpg)
+![Pés da Estátua](http://opentty.fun/dl/imgs/Correntes.jpg)
+![Estátua de Lúcifer](http://opentty.fun/dl/imgs/Estatua-Lucifer.jpg)
+![Painting of Lucifer](http://opentty.fun/dl/imgs/Painting-of-Lucifer.jpg)

@@ -4,7 +4,7 @@ A **Teogonia de Hesíodo** é um dos textos fundacionais da mitologia grega, com
 
 O texto apresenta a criação do cosmos a partir do **Caos primordial** e narra a sucessão de gerações divinas, incluindo os **Titãs**, os **Gigantes** e os **deuses olímpicos**. A obra é rica em simbolismos e mitos, estabelecendo relações de poder, parentesco e conflito entre as divindades, refletindo uma visão ordenada e hierárquica do cosmos. A Teogonia é de importância central para a compreensão da religião e da filosofia grega antiga, além de influenciar profundamente a literatura e a arte ocidental subsequente.
 
-[Download do livro da Teogonia em português](http://opentty.xyz/dl/Books/Teogonia.pdf)
+[Download do livro da Teogonia em português](http://opentty.fun/dl/Books/Teogonia.pdf)
 
 ---
 

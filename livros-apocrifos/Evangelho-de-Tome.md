@@ -3,7 +3,7 @@
 ### 🌟 **O que é?**
 O Evangelho da Infância de Tomé é um texto apócrifo cristão, escrito provavelmente no século II d.C. Atribuído a Tomé, o Israelita (não confundir com o apóstolo Tomé), o texto relata episódios da infância de Jesus entre os 5 e 12 anos, focando em milagres e eventos não mencionados nos evangelhos canônicos.
 
-[Download PDF do Evangelho de Tomé](http://opentty.xyz/dl/Books/Evangelho-Tome.pdf)
+[Download PDF do Evangelho de Tomé](http://opentty.fun/dl/Books/Evangelho-Tome.pdf)
 
 ---
 

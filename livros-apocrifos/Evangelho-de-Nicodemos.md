@@ -3,7 +3,7 @@
 ### 🌟 **O que é?**
 O Evangelho de Nicodemos é um texto apócrifo cristão, escrito provavelmente no século IV d.C., embora afirme ser baseado em relatos do século I. Também conhecido como **Atos de Pilatos**, o texto expande dramaticamente os eventos da Paixão de Cristo, focando no julgamento de Jesus, sua crucificação e descida ao inferno.
 
-[Download PDF do Evangelho de Nicodemos](http://opentty.xyz/dl/Books/Evangelho-Nicodemos.pdf)
+[Download PDF do Evangelho de Nicodemos](http://opentty.fun/dl/Books/Evangelho-Nicodemos.pdf)
 
 ---
 

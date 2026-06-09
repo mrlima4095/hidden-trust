@@ -2,7 +2,7 @@
 
 Os Livros de Enoque são uma coleção de textos judaicos atribuídos a Enoque, bisavô de Noé. Eles não fazem parte do cânon das escrituras hebraicas (Tanakh) nem da maioria dos cânones cristãos, sendo considerados **apócrifos** ou **pseudoepígrafos**. No entanto, são de enorme importância histórica e teológica, especialmente o **1 Enoque**, que era amplamente conhecido e citado por comunidades judaicas e pelos primeiros cristãos.
 
-[Download PDF do Livro de Enoque 1 e 2](http://opentty.xyz/dl/Books/Enoque.pdf)
+[Download PDF do Livro de Enoque 1 e 2](http://opentty.fun/dl/Books/Enoque.pdf)
 
 ---
 

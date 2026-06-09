@@ -6,7 +6,7 @@ A **Chave Menor de Salomão** (em latim: *Clavicula Salomonis*) é um dos mais f
 
 > 📚 O livro é dividido em cinco partes principais e descreve rituais complexos para **invocar e comandar espíritos**, particularmente **demônios**, para servir aos propósitos do mago.
 
-[Download PDF do Livro da Clavícula de Salomão](http://opentty.xyz/dl/Books/Chave-Menor.pdf)
+[Download PDF do Livro da Clavícula de Salomão](http://opentty.fun/dl/Books/Chave-Menor.pdf)
 
 ## 📖 Conteúdo do Livro
 

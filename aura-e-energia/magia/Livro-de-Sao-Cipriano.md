@@ -4,7 +4,7 @@ O **Livro de São Cipriano da Capa Preta** é um dos **grimórios mais famosos e
 
 > 🔮 O livro é conhecido como uma **"enciclopédia da magia"** que reúne rituais, orações, simpatias e feitiços para os mais diversos fins, desde proteção até trabalhos de amor e justiça.
 
-[Download do PDF do Livro de São Cipriano da Capa Preta](http://opentty.xyz/dl/Books/O-Bruxo.pdf)
+[Download do PDF do Livro de São Cipriano da Capa Preta](http://opentty.fun/dl/Books/O-Bruxo.pdf)
 
 ## 📜 Quem Foi São Cipriano?
 
